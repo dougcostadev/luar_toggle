@@ -1,5 +1,5 @@
-# luar_toogle
-Sistema de toogle com dois personagens.
+# luar_toggle
+Sistema de toggle com dois personagens.
 
 Existem duas Config, sendo uma para o server "galaxysun.lua" e a do client "galaxymoon.lua".
 
